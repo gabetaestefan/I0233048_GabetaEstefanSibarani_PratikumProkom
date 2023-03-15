@@ -1,5 +1,0 @@
-print("Nama : Gabeta Estefan Sibarani")
-print("NIM  : I0322048")
-print("Asal : Medan")
-print("Deskripsi Kota Asal")
-print("Medan adalah kota asal sekaligus kota kelahiranku. Medan merupakan salah satu kota yang terletak di Provinsi Sumatera Utara. Ada beberapa hal yang terkenal dan menjadi ciri khas dari kota Medan antara lain seperti Medan merupakan ")
